@@ -22,26 +22,26 @@ For the secondary outcome (AEs), the analysis directly utilized the same 12 clin
 ```
 code/
 ├── 01_data_preprocessing/
-│   └── 1. Data imputation.txt
+│   └── 1. Data imputation.R
 │
 ├── 02_phenomapping/
-│   ├── 2. Phenomapping using Gower's distance.txt
-│   └── 3. Determination of sample weights.txt
+│   ├── 2. Phenomapping using Gower's distance.R
+│   └── 3. Determination of sample weights.R
 │
 ├── 03_ite_estimation/
-│   ├── 4. Fitting of weighted elastic net Poisson regression model.txt
-│   └── 5. Calibration of the Poisson regression model.txt
+│   ├── 4. Fitting of weighted elastic net Poisson regression model.R
+│   └── 5. Calibration of the Poisson regression model.R
 │
 ├── 04_xgboost_modeling/
-│   ├── 6. Full-feature XGboost model for ITE prediction.txt
-│   ├── 7. Calibration of the full-feature XGboost model.txt
-│   ├── 8. 5-fold cross-validation of the full-feature XGboost model.txt
-│   ├── 9. 12-feature XGboost model for ITE prediction.txt
-│   ├── 10. Calibration of the 12-feature XGboost model.txt
-│   └── 11. 5-fold cross-validation of the 12-feature XGboost model.txt
+│   ├── 6. Full-feature XGboost model for ITE prediction.R
+│   ├── 7. Calibration of the full-feature XGboost model.R
+│   ├── 8. 5-fold cross-validation of the full-feature XGboost model.R
+│   ├── 9. 12-feature XGboost model for ITE prediction.R
+│   ├── 10. Calibration of the 12-feature XGboost model.R
+│   └── 11. 5-fold cross-validation of the 12-feature XGboost model.R
 │
 └── 05_model_discrimination/
-    └── 12. Calculation of C-for-Benefit.txt
+    └── 12. Calculation of C-for-Benefit.py
 ```
 
 ### Model Selection and Primary Analysis
