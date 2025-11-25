@@ -5,6 +5,9 @@ library(shapviz)
 library(tidyverse)
 library(pROC)
 library(openxlsx)
+#library(devtools) 
+#install_github("xnie/rlearner") ###if Rlearner not installed
+library(rlearner)
 
 setwd("./data")
 
