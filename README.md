@@ -1,7 +1,7 @@
-# Phenomaps-Optimized Personalized Intensive Blood Pressure Management for Dementia Prevention
+# A Phenomaps-Optimized Personalized Intensive Blood Pressure Management for Dementia Prevention
 
 This repository contains the implementation code for the machine learning framework developed in the study:  
-**"Phenomaps-Optimized Personalized Intensive Blood Pressure Management Using Machine Learning for Typical Patients: A New Frontier in Dementia Prevention for Individuals Without a Stroke History"**
+**"A Phenomaps-Optimized Personalized Intensive Blood Pressure Management Using Machine Learning for Typical Patients: A New Frontier in Dementia Prevention for Individuals Without a Stroke History"**
 
 ## 📋 Study Overview
 
